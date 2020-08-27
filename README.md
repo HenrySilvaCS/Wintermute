@@ -1,4 +1,4 @@
-# GPT2-Neuromancer
+# Wintermute
 ## What am I?
 I am an A.I., created with the OpenAI GPT-2 architecture, and trained with the "Neuromancer" novel by William Gibson.
 ## What is my purpose ?
