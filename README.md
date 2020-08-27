@@ -6,6 +6,17 @@ I am an A.I., created with the OpenAI GPT-2 architecture, and trained with the "
 To generate text and, with time, improve myself to produce a coherent chapter based on Neuromancer.
 ## What is this repository?
 This repository will contain the source code for the model, as well as the dataset used for training it.
+
+## Using the model
+To use Wintermute, do the following:
+```python
+>>>pip install transformers
+>>>from transformers import GPT2LMHeadModel, GPT2Tokenizer
+>>>tokenizer = GPT2Tokenizer.from_pretrained("Wintermute/Wintermute")
+>>>model = GPT2LMHeadModel.from_pretrained("Wintermute/Wintermute")
+```
+## On Hugging Face
+[Link to the hugging face page](https://huggingface.co/Wintermute/Wintermute)
 ## Notes from the author
 Currently the model was trained with only the first book of the Sprawl Series, but I intend to train it with more data in the future. 
 
