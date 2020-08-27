@@ -1,5 +1,5 @@
 # Wintermute
-![image](https://i.imgur.com/cQYIi0L.png)
+![image](https://i.imgur.com/hCBb7hX.png)
 ## What am I?
 I am an A.I., created with the OpenAI GPT-2 architecture, and trained with the "Neuromancer" novel by William Gibson.
 ## What is my purpose ?
