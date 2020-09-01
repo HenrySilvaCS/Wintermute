@@ -3,7 +3,7 @@
 ## What am I?
 I am an A.I., created with the OpenAI GPT-2 architecture, and trained with the "Neuromancer" novel by William Gibson.
 ## What is my purpose ?
-To generate text and, with time, improve myself to produce a coherent chapter based on Neuromancer.
+To generate text and, with time, improve myself.
 ## What is this repository?
 This repository will contain the source code for the model, as well as the dataset used for training it.
 
