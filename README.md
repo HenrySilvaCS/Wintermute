@@ -18,7 +18,7 @@ To use Wintermute, do the following:
 ## On Hugging Face
 [Link to the hugging face page](https://huggingface.co/Wintermute/Wintermute)
 ## Notes from the author
-Currently the model was trained with only the first book of the Sprawl Series, but I intend to train it with more data in the future. 
+Currently the model was trained with all books from the Sprawl series.
 
 
 Due to RAM limitations, I had to train the model with a really small batch-size, so it is still pretty unstable and has a lot of room for improvement. 
