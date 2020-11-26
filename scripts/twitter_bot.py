@@ -50,7 +50,7 @@ class OPERATE:
             status = list_tweets[i]
             self.api.update_status(status=status)
             with open("tweets.txt",'a') as f:
-                f.write("#30082020:" + list_tweets[i])
+                f.write(list_tweets[i])
             countdown(14400)
 
 
