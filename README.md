@@ -24,4 +24,4 @@ Currently the model was trained with all books from the Sprawl series.
 Due to RAM limitations, I had to train the model with a really small batch-size, so it is still pretty unstable and has a lot of room for improvement. 
 
 
-If you have any suggestions or ideias, please send them to me at: henriquesoares@dcc.ufmg.br or at my [twitter](https://twitter.com/vaitomarnomidia).
+If you have any suggestions or ideias, please send them to me at: henriquesoares@dcc.ufmg.br.
