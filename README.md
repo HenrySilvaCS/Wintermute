@@ -10,7 +10,6 @@ This repository will contain the source code for the model, as well as the datas
 ## Using the model
 To use Wintermute, do the following:
 ```python
->>>pip install transformers
 >>>from transformers import GPT2LMHeadModel, GPT2Tokenizer
 >>>tokenizer = GPT2Tokenizer.from_pretrained("Wintermute/Wintermute")
 >>>model = GPT2LMHeadModel.from_pretrained("Wintermute/Wintermute")
