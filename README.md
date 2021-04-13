@@ -16,8 +16,7 @@ To use Wintermute, do the following:
 >>>tokenizer = GPT2Tokenizer.from_pretrained("Wintermute/Wintermute")
 >>>model = GPT2LMHeadModel.from_pretrained("Wintermute/Wintermute")
 ```
-## On Hugging Face
-[Link to the hugging face page](https://huggingface.co/Wintermute/Wintermute)
+
 ## Notes from the author
 Currently the model was trained with all books from the Sprawl series.
 
