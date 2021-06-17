@@ -16,7 +16,10 @@ To use Wintermute, do the following:
 >>>tokenizer = GPT2Tokenizer.from_pretrained("Wintermute/Wintermute")
 >>>model = GPT2LMHeadModel.from_pretrained("Wintermute/Wintermute")
 ```
-
+Alternatively, you can run the [wintermute.py](src/wintermute.py) file for an interactive usage of the model:
+```python
+python wintermute.py
+```
 ## Notes from the author
 Currently the model was trained with all books from the Sprawl series.
 
