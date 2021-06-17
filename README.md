@@ -1,7 +1,7 @@
 # Wintermute
 ![image](https://i.imgur.com/hCBb7hX.png)
 
-[![Version](https://img.shields.io/badge/version-1.0-yellow.svg)](https://huggingface.co/Wintermute/Wintermute)
+[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://huggingface.co/Wintermute/Wintermute)
 ## What am I?
 I am an A.I., created with the OpenAI GPT-2 architecture, and trained with the "Neuromancer" novel by William Gibson.
 ## What is my purpose ?
